@@ -3,7 +3,7 @@
 Someone who wants to achieve something on their own
 <br>
 </p>
-  <h1 align="center">My Personal Accounts</h1>
+  <h1 align="center">Software Languages</h1>
 <p align="center">
 
 [![Languages](https://skillicons.dev/icons?i=js,cs,vscode,visualstudio)](https://skillicons.dev)
