@@ -3,10 +3,13 @@
 Someone who wants to achieve something on their own
 <br>
 </p>
-  <h1 align="center">Software Languages</h1>
-<p align="center">
-
-[![Languages](https://skillicons.dev/icons?i=js,cs,vscode,visualstudio)](https://skillicons.dev)
+<h1 align="center">Software Languages</h1>
+<div align="center">
+ <img alt="JavaScript" align="center" src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript"/>
+ <img alt="CSharp" align="center" src="https://img.shields.io/badge/-C%20Sharp-05122A?style=flat&logo=csharp"/>
+ <img alt="Node.js" align="center" src="https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js"/>
+ <img alt="Visual Studio Code" align="center" src="https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC"/>
+</div>
 
   <h1 align="center">Discord Accounts</h1>
 <p align="center">
